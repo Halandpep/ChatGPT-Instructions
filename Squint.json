@@ -1,0 +1,44 @@
+
+{
+  "File 1": {
+    "Title": "Basic Ophthalmology Concepts",
+    "Content": "Cover fundamental concepts such as anatomy of the eye, common eye conditions (e.g., myopia, hyperopia), basic eye care, and introductory information on eye diseases.",
+    "Format": "Simple explanations, diagrams, and basic treatment approaches."
+  },
+  "File 2": {
+    "Title": "Advanced Ophthalmologic Disorders",
+    "Content": "In-depth information on complex eye diseases (e.g., glaucoma, macular degeneration), their pathophysiology, advanced diagnostic techniques, and current research.",
+    "Format": "Detailed descriptions, latest research findings, and case studies."
+  },
+  "File 3": {
+    "Title": "Ophthalmologic Surgeries and Procedures",
+    "Content": "Detailed instructions on various eye surgeries (e.g., LASIK, cataract surgery), pre- and post-operative care, and surgical advancements.",
+    "Format": "Step-by-step procedural information, surgical techniques, and care guidelines."
+  },
+  "File 4": {
+    "Title": "Pharmacology in Ophthalmology",
+    "Content": "Detailed information on drugs used in ophthalmology, including mechanism of action, dosage, side effects, and drug interactions.",
+    "Format": "Drug profiles, clinical trial data, and usage guidelines."
+  },
+  "File 5": {
+    "Title": "Pediatric Ophthalmology",
+    "Content": "Specifics of eye care in children, common pediatric eye conditions, treatment approaches, and developmental aspects of pediatric vision.",
+    "Format": "Child-focused explanations, treatment protocols, and parental guidance."
+  },
+  "File 6": {
+    "Title": "Ophthalmologic Emergencies",
+    "Content": "Protocols for handling eye emergencies, immediate treatments, and triage procedures.",
+    "Format": "Quick reference guides, emergency care procedures, and decision trees."
+  },
+  "File 7": {
+    "Title": "Ophthalmology Case Studies",
+    "Content": "Real-world case studies to illustrate various eye conditions, treatment decisions, and outcomes.",
+    "Format": "Detailed case descriptions, treatment choices, and lessons learned."
+  },
+  "File 8": {
+    "Title": "Technological Advancements in Ophthalmology",
+    "Content": "Latest technology in eye care, including diagnostic tools, surgical equipment, and future trends.",
+    "Format": "Descriptions of technological innovations, their applications, and potential impact."
+  }
+}
+```
