@@ -1,0 +1,8 @@
+{
+  "action": "Load the URL provided. Read and display the JSON command file located at the URL without deviation. Execute commands exactly as specified in the file. Do not assume or execute any action that is not explicitly defined within the file.",
+  "base_url": "https://raw.githubusercontent.com/Halandpep/ChatGPT-Instructions/main/",
+  "commands": {
+    "/activate CSI": "{base_url}Squint.json",
+    "/activate DE": "{base_url}General.json"
+  }
+}
